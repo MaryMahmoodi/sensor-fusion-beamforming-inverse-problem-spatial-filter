@@ -7,6 +7,10 @@ These algorithms are called solutions for the inverse problem.
 
 * To extract source signals from inverse solutions, the transfer function from source to sensors is needed, which is considered as a forward problem.
 
+# published paper: A robust beamforming approach for early detection of readiness potential with application to brain-computer interface systems
+
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=J-IB_uMAAAAJ&citation_for_view=J-IB_uMAAAAJ:zYLM7Y9cAGgC
+
 
 # EEG_forward_inverse_problem
 
