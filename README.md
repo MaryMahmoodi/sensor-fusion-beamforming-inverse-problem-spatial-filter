@@ -2,6 +2,7 @@
 
 * sensor fusion refers to algorithms which could be applied to a number of sensors in order to extract low noise source signals 
 
+
 * In EEG signal processing, we could apply beamformers and spatial filters to dense EEG sensors in 3d head volume in order to extract source signals from desired brain locations 
 These algorithms are called solutions for the inverse problem.
 
@@ -12,9 +13,11 @@ These algorithms are called solutions for the inverse problem.
 https://scholar.google.com/citations?view_op=view_citation&hl=en&user=J-IB_uMAAAAJ&citation_for_view=J-IB_uMAAAAJ:zYLM7Y9cAGgC
 
 
+
 # EEG_forward_inverse_problem
 
 https://github.com/MaryMahmoodi/EEG_forward_inverse_problem
+
 
 # spatial-filter-beamfoer-for-dense-EEG-analysis
 
