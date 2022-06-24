@@ -8,11 +8,11 @@ These algorithms are called solutions for the inverse problem.
 * To extract source signals from inverse solutions, the transfer function from source to sensors is needed, which is considered as a forward problem.
 
 
-* EEG_forward_inverse_problem
+# EEG_forward_inverse_problem
 
 https://github.com/MaryMahmoodi/EEG_forward_inverse_problem
 
-* spatial-filter-beamfoer-for-dense-EEG-analysis
+# spatial-filter-beamfoer-for-dense-EEG-analysis
 
  * lcmv beamformer 
  * Laplacian spatial filter
