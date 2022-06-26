@@ -19,7 +19,7 @@ https://scholar.google.com/citations?view_op=view_citation&hl=en&user=J-IB_uMAAA
 https://github.com/MaryMahmoodi/EEG_forward_inverse_problem
 
 
-# spatial-filter-beamfoer-for-dense-EEG-analysis
+# spatial-filter-beamformer-for-dense-EEG-analysis
 
  * lcmv beamformer 
  * Laplacian spatial filter
